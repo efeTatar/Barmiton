@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+.phase{
+    background-color: antiquewhite;
+    width: 400px;
+    height: 800px;
+    margin-left: 730px
+}
+
+#phase_2, #phase_3, #phase_4, #all_data{
+    display: none;
+}
+
+#ingredients_list{
+    border: 1px;
+    width: 400px;
+    min-height: 100px;
+    display: block;
+}
+
+fieldset{
+    width: 300px;
+    padding:20px;
+}
+
+#progress_bar{
+    width : 450px;
+    height: 50px;
+    color: greenyellow;
+}
+
+#image_pick{
+    width: 75px;
+    height: 75px;
+}
+
+#php_part{
+    display: none;
+}
